@@ -1,7 +1,5 @@
 # Awesome Copilot Instructions
 
-🛠️ Handy GitHub Copilot instructions to get the most out of your AI pair programmer. 🧑‍💻 Boost your productivity! ⚡️
-
 This repository contains a curated collection of effective instructions for GitHub Copilot, organized by programming language. These prompts are designed to help you get the most out of your AI coding assistant, whether you're generating code, writing tests, or refactoring.
 
 **Using Custom Instructions with GitHub Copilot**
