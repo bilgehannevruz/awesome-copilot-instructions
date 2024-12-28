@@ -14,7 +14,7 @@ For more information on how Copilot uses instructions, consult the official docu
 
 ## Table of Contents
 
-- [Python](#python)
+- Python
     - [Base Instructions](python/base-instructions.md)
     - Django
         - [Django-HTMX](python/django/django-htmx.md)
@@ -26,11 +26,11 @@ For more information on how Copilot uses instructions, consult the official docu
         - [FastAPI](python/fastapi/fastapi-jinja2.md)
     - Flask
         - [Flask](python/flask/flask-jinja2.md)
-- [JavaScript](#javascript)
+- JavaScript
     - [Base Instructions](javascript/base-instructions.md)
-- [Rust](#rust)
+- Rust
     - [Base Instructions](rust/base-instructions.md)
-- [Go](#go)
+- Go
     - [Base Instructions](go/base-instructions.md)
 
 ## Contributing
